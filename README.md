@@ -4,8 +4,7 @@
    ██║   ███████║███████╗   ██║   █████╗    ██╔╝ ██║     ██████╔╝███████║█████╗     ██║
    ██║   ██╔══██║╚════██║   ██║   ██╔══╝   ██╔╝  ██║     ██╔══██╗██╔══██║██╔══╝     ██║
    ██║   ██║  ██║███████║   ██║   ███████╗██╔╝   ╚██████╗██║  ██║██║  ██║██║        ██║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝
-```
+   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝```
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mikegrunwald&layout=compact&show_icons=true&theme=react&hide_title=true&hide=stars)
 ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegrunwald&layout=compact&theme=react)
