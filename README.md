@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mikegrunwald&show_icons=true&theme=nord)
-![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegrunwald&layout=compact&hide=html&theme=nord)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mikegrunwald&layout=compact&show_icons=true&theme=react)
+![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegrunwald&layout=compact&theme=react)
 
 <!--
 **mikegrunwald/mikegrunwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
