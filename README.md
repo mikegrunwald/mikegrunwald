@@ -7,8 +7,10 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝
 ```
 
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mikegrunwald&layout=compact&show_icons=true&theme=react&hide_title=true&hide=stars)
 ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegrunwald&layout=compact&theme=react)
+-->
 
 [![Hits](https://hits.sh/github.com/mikegrunwald.svg?style=for-the-badge&label=Total%20Visits&color=33C5F3)](https://hits.sh/github.com/mikegrunwald/)
 
